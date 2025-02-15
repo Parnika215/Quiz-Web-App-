@@ -32,7 +32,7 @@ After answering all questions, the final score is displayed.
 ![Final Score](https://github.com/Parnika215/Quiz-Web-App-/blob/main/Screenshot%20(1829).png?raw=true)  
 
 ## 🌍 Live Demo  
-👉 **[Live Demo](#)** *(Add your GitHub Pages or hosted link here)*  
+👉 **[Live Demo]( https://parnika215.github.io/Quiz-Web-App-/)**  
 
 ## 📜 Credits  
 Developed by **[Parnika]** 🚀  
